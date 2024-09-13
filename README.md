@@ -5,7 +5,7 @@
 
 <h2>🚀 Demo</h2>
 
-[patryknamyslak.github.io/reponsive-design/site/](patryknamyslak.github.io/reponsive-design/)
+[https://patryknamyslak.github.io/reponsive-design/](Website)
 
 <h2>🍰 Contribution Guidelines:</h2>
 
