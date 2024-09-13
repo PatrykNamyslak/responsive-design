@@ -5,7 +5,7 @@
 
 <h2>🚀 Demo</h2>
 
-[Website](https://patryknamyslak.github.io/reponsive-design/)
+[Website](https://patryknamyslak.github.io/responsive-design/)
 
 <h2>🍰 Contribution Guidelines:</h2>
 
