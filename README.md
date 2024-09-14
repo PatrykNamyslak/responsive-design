@@ -1,7 +1,7 @@
 
 
 
-<p align="center"><img src="https://socialify.git.ci/PatrykNamyslak/responsive-design/image?description=1&amp;descriptionEditable=Here%20is%20where%20I%20store%20all%20of%20my%20responsive%20designs%20%26%20components%20for%20front%20end%20web%20development!&amp;font=Raleway&amp;language=1&amp;logo=https%3A%2F%2Fpatryknamyslak.pl%2Fassets%2Fimages%2Flogo_white.svg&amp;name=1&amp;pattern=Plus&amp;theme=Dark" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/PatrykNamyslak/responsive-design/image?description=1&amp;descriptionEditable=Here%20is%20where%20I%20store%20all%20of%20my%20responsive%20designs%20%26%20components%20for%20front%20end%20web%20development!&amp;font=Raleway&amp;language=1&amp;logo=https%3A%2F%2Fpatryknamyslak.pl%2Fassets%2Fimages%2Flogo_white.svg&amp;name=1&amp;pattern=Circuit%20Board&amp;theme=Dark" alt="project-image"></p>
 
 <h2>🚀 Demo</h2>
 
